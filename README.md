@@ -1,1 +1,1 @@
-This is a note taking web application created with NodeJS using Hapi framework.
+This is a note taking web application created with NodeJS using Hapi framework. Please note that this is only the back-end. For the front-end of this application please visit http://notesapp-v1.dicodingacademy.com
